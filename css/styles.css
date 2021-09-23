@@ -1,0 +1,164 @@
+body {
+  margin: 0px;
+  text-align: center;
+  display: block;
+  font-family: 'Merriweather', serif;
+  
+  
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CEE5D0;
+  border-width: 10px;
+  width: 6%;
+  padding-top: 20px;
+}
+h1 {
+  color: #66bfbf;
+  font-family: "Meddon", cursive;
+  font-size: 375%;
+  margin: 50px auto 0 auto;
+  text-align: center;
+  
+}
+h2{
+  color: #11999E;
+  }
+h3{
+color: #11999E;
+}
+.intro{
+  width: 52%;
+  margin: auto;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+#a-web-developer{
+  color: #66bfbf;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+.intro.design{
+  margin-top: 20px;
+}
+.top-container {
+  background-color: #e4f9f5;
+  
+}
+
+
+.cloud-image {
+  height: 82px;
+  width: 195px;
+}
+.mountain-img {
+  size: 300px 650px;
+  padding-top: 60px;
+}
+
+
+.middle-container{
+  margin-bottom: 0px;
+}
+#top-cloud {
+  position: relative;
+  top: 50px;
+  left: 250px;
+}
+#middle-cloud {
+  position: absolute;
+  right: 400px;
+
+}
+#bottom-cloud {
+  position: absolute;
+  top: 220px;
+  left: 240px;
+}
+
+.dilara-img{
+  padding-top: 20px;
+  height: 200px;
+  width: 200px;
+  margin: 25px 0;
+}
+
+
+.skill-row{
+
+  width: 50%;
+  margin: 0px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  
+
+}
+
+.skill-html{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-css{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+ 
+}
+
+.BUTTON_TQM {
+  background: #1DB9C3;
+  -moz-border-radius: 20px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  text-shadow: 1px 1px 20px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 35px;
+}
+
+.BUTTON_TQM:hover { 
+  background:  #1E62D0;
+  border-radius: 12px;
+  text-decoration: none;
+}
+
+.bottom-container{
+  background-color:  #66BFBF;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+.footer-link{
+  margin: 0px 10px 0px 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #22577A;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+.bottom-copyright-design{
+  color: #EAF6F6;
+  font-size: 0.75 rem;
+ 
+}
+
+#a-web-developer{
+  margin-right: auto; 
+  margin-left: auto;
+  position: absolute;
+  top:194px;
+  right: 358px;
+}
+
+#skill-row-css{
+  margin-bottom: 40px;
+}
